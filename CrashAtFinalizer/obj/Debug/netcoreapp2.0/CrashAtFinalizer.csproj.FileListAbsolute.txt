@@ -1,0 +1,10 @@
+/Users/micl/Documents/Debugging-Book/code/CrashAtFinalizer/obj/Debug/netcoreapp2.0/CrashAtFinalizer.csproj.CoreCompileInputs.cache
+/Users/micl/Documents/Debugging-Book/code/CrashAtFinalizer/obj/Debug/netcoreapp2.0/CrashAtFinalizer.AssemblyInfoInputs.cache
+/Users/micl/Documents/Debugging-Book/code/CrashAtFinalizer/obj/Debug/netcoreapp2.0/CrashAtFinalizer.AssemblyInfo.cs
+/Users/micl/Documents/Debugging-Book/code/CrashAtFinalizer/bin/Debug/netcoreapp2.0/CrashAtFinalizer.deps.json
+/Users/micl/Documents/Debugging-Book/code/CrashAtFinalizer/bin/Debug/netcoreapp2.0/CrashAtFinalizer.runtimeconfig.json
+/Users/micl/Documents/Debugging-Book/code/CrashAtFinalizer/bin/Debug/netcoreapp2.0/CrashAtFinalizer.runtimeconfig.dev.json
+/Users/micl/Documents/Debugging-Book/code/CrashAtFinalizer/bin/Debug/netcoreapp2.0/CrashAtFinalizer.dll
+/Users/micl/Documents/Debugging-Book/code/CrashAtFinalizer/bin/Debug/netcoreapp2.0/CrashAtFinalizer.pdb
+/Users/micl/Documents/Debugging-Book/code/CrashAtFinalizer/obj/Debug/netcoreapp2.0/CrashAtFinalizer.dll
+/Users/micl/Documents/Debugging-Book/code/CrashAtFinalizer/obj/Debug/netcoreapp2.0/CrashAtFinalizer.pdb

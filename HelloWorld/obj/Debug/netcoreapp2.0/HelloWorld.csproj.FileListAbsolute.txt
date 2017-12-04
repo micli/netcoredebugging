@@ -1,0 +1,10 @@
+/Users/micl/Documents/Debugging-Book/code/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.deps.json
+/Users/micl/Documents/Debugging-Book/code/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.json
+/Users/micl/Documents/Debugging-Book/code/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.dev.json
+/Users/micl/Documents/Debugging-Book/code/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/micl/Documents/Debugging-Book/code/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.pdb
+/Users/micl/Documents/Debugging-Book/code/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/micl/Documents/Debugging-Book/code/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/micl/Documents/Debugging-Book/code/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfo.cs
+/Users/micl/Documents/Debugging-Book/code/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/micl/Documents/Debugging-Book/code/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.pdb

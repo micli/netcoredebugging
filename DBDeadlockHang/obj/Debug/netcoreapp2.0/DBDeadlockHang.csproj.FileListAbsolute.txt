@@ -1,0 +1,10 @@
+/Users/micl/Documents/Debugging-Book/code/DBDeadlockHang/obj/Debug/netcoreapp2.0/DBDeadlockHang.csproj.CoreCompileInputs.cache
+/Users/micl/Documents/Debugging-Book/code/DBDeadlockHang/obj/Debug/netcoreapp2.0/DBDeadlockHang.AssemblyInfoInputs.cache
+/Users/micl/Documents/Debugging-Book/code/DBDeadlockHang/obj/Debug/netcoreapp2.0/DBDeadlockHang.AssemblyInfo.cs
+/Users/micl/Documents/Debugging-Book/code/DBDeadlockHang/bin/Debug/netcoreapp2.0/DBDeadlockHang.deps.json
+/Users/micl/Documents/Debugging-Book/code/DBDeadlockHang/bin/Debug/netcoreapp2.0/DBDeadlockHang.runtimeconfig.json
+/Users/micl/Documents/Debugging-Book/code/DBDeadlockHang/bin/Debug/netcoreapp2.0/DBDeadlockHang.runtimeconfig.dev.json
+/Users/micl/Documents/Debugging-Book/code/DBDeadlockHang/bin/Debug/netcoreapp2.0/DBDeadlockHang.dll
+/Users/micl/Documents/Debugging-Book/code/DBDeadlockHang/bin/Debug/netcoreapp2.0/DBDeadlockHang.pdb
+/Users/micl/Documents/Debugging-Book/code/DBDeadlockHang/obj/Debug/netcoreapp2.0/DBDeadlockHang.dll
+/Users/micl/Documents/Debugging-Book/code/DBDeadlockHang/obj/Debug/netcoreapp2.0/DBDeadlockHang.pdb

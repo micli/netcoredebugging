@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.0": []
+  },
+  "packageFolders": {
+    "/Users/micl/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/micl/Documents/DotnetDebugging/Dotnet%20core%20Debugging%20Book/code/Chapter04/DumpMe/DumpMe.csproj",
+      "projectName": "DumpMe",
+      "projectPath": "/Users/micl/Documents/DotnetDebugging/Dotnet%20core%20Debugging%20Book/code/Chapter04/DumpMe/DumpMe.csproj",
+      "outputPath": "/Users/micl/Documents/DotnetDebugging/Dotnet%20core%20Debugging%20Book/code/Chapter04/DumpMe/obj/",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "netcoreapp2.0"
+      ],
+      "frameworks": {
+        "netcoreapp2.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.0": {
+        "imports": [
+          "net461"
+        ]
+      }
+    }
+  }
+}

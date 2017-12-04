@@ -1,0 +1,10 @@
+/Users/micl/Documents/Debugging-Book/code/AppSimpleCrash/obj/Debug/netcoreapp2.0/AppSimpleCrash.csproj.CoreCompileInputs.cache
+/Users/micl/Documents/Debugging-Book/code/AppSimpleCrash/obj/Debug/netcoreapp2.0/AppSimpleCrash.AssemblyInfoInputs.cache
+/Users/micl/Documents/Debugging-Book/code/AppSimpleCrash/obj/Debug/netcoreapp2.0/AppSimpleCrash.AssemblyInfo.cs
+/Users/micl/Documents/Debugging-Book/code/AppSimpleCrash/bin/Debug/netcoreapp2.0/AppSimpleCrash.deps.json
+/Users/micl/Documents/Debugging-Book/code/AppSimpleCrash/bin/Debug/netcoreapp2.0/AppSimpleCrash.runtimeconfig.json
+/Users/micl/Documents/Debugging-Book/code/AppSimpleCrash/bin/Debug/netcoreapp2.0/AppSimpleCrash.runtimeconfig.dev.json
+/Users/micl/Documents/Debugging-Book/code/AppSimpleCrash/bin/Debug/netcoreapp2.0/AppSimpleCrash.dll
+/Users/micl/Documents/Debugging-Book/code/AppSimpleCrash/bin/Debug/netcoreapp2.0/AppSimpleCrash.pdb
+/Users/micl/Documents/Debugging-Book/code/AppSimpleCrash/obj/Debug/netcoreapp2.0/AppSimpleCrash.dll
+/Users/micl/Documents/Debugging-Book/code/AppSimpleCrash/obj/Debug/netcoreapp2.0/AppSimpleCrash.pdb

@@ -1,0 +1,10 @@
+/home/parallels/Desktop/MassiveThreads/bin/Debug/netcoreapp2.0/MassiveThreads.deps.json
+/home/parallels/Desktop/MassiveThreads/bin/Debug/netcoreapp2.0/MassiveThreads.runtimeconfig.json
+/home/parallels/Desktop/MassiveThreads/bin/Debug/netcoreapp2.0/MassiveThreads.runtimeconfig.dev.json
+/home/parallels/Desktop/MassiveThreads/bin/Debug/netcoreapp2.0/MassiveThreads.dll
+/home/parallels/Desktop/MassiveThreads/bin/Debug/netcoreapp2.0/MassiveThreads.pdb
+/home/parallels/Desktop/MassiveThreads/obj/Debug/netcoreapp2.0/MassiveThreads.csproj.CoreCompileInputs.cache
+/home/parallels/Desktop/MassiveThreads/obj/Debug/netcoreapp2.0/MassiveThreads.AssemblyInfoInputs.cache
+/home/parallels/Desktop/MassiveThreads/obj/Debug/netcoreapp2.0/MassiveThreads.AssemblyInfo.cs
+/home/parallels/Desktop/MassiveThreads/obj/Debug/netcoreapp2.0/MassiveThreads.dll
+/home/parallels/Desktop/MassiveThreads/obj/Debug/netcoreapp2.0/MassiveThreads.pdb

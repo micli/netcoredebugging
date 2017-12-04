@@ -1,0 +1,10 @@
+/Users/micl/Documents/Debugging-Book/code/HighCPU/bin/Debug/netcoreapp2.0/HighCPU.deps.json
+/Users/micl/Documents/Debugging-Book/code/HighCPU/bin/Debug/netcoreapp2.0/HighCPU.runtimeconfig.json
+/Users/micl/Documents/Debugging-Book/code/HighCPU/bin/Debug/netcoreapp2.0/HighCPU.runtimeconfig.dev.json
+/Users/micl/Documents/Debugging-Book/code/HighCPU/bin/Debug/netcoreapp2.0/HighCPU.dll
+/Users/micl/Documents/Debugging-Book/code/HighCPU/bin/Debug/netcoreapp2.0/HighCPU.pdb
+/Users/micl/Documents/Debugging-Book/code/HighCPU/obj/Debug/netcoreapp2.0/HighCPU.csproj.CoreCompileInputs.cache
+/Users/micl/Documents/Debugging-Book/code/HighCPU/obj/Debug/netcoreapp2.0/HighCPU.AssemblyInfoInputs.cache
+/Users/micl/Documents/Debugging-Book/code/HighCPU/obj/Debug/netcoreapp2.0/HighCPU.AssemblyInfo.cs
+/Users/micl/Documents/Debugging-Book/code/HighCPU/obj/Debug/netcoreapp2.0/HighCPU.dll
+/Users/micl/Documents/Debugging-Book/code/HighCPU/obj/Debug/netcoreapp2.0/HighCPU.pdb
