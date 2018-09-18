@@ -38,3 +38,7 @@ In this repository also contains .NET Core debugging extensions for Linux and ma
 在最新发布的.NET Core 2.1 中，调试扩展所支持的LLDB 调试器已经从3.6升级到3.9 版本。在这个版本库中，还包含了用于Linux和Mac OS X64架构的.NET Core调试扩展，以兼容LLDB3.9。 请随意下载。
 
 ***天猫购买链接*** [抢购传送门](https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.6.29126ce2kWgoup&id=576694383814&areaId=110100&user_id=1020536390&cat_id=2&is_b=1&rn=cb8dd6dfc0ccd338bfc0ce60a9daa1af)
+
+***京东自营购买链接*** [抢购传送门](https://item.jd.com/12432128.html)
+
+***当当购买链接*** [抢购传送门](http://product.dangdang.com/25340074.html)
