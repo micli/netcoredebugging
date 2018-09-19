@@ -18,6 +18,8 @@ This repo contains below projects:
 
 In this repository also contains .NET Core debugging extensions for Linux and macOS on x64 archiecture to compatiable LLDB3.9. Please feel free to download.
 
+[***Access Tsinghua Press website to know details***](http://www.tup.tsinghua.edu.cn/booksCenter/book_07944401.html)
+
 # .NET Core 2.0 调试样例代码仓库
 一个包含.NET Core 应用程序调试样例代码的代码仓库
 
